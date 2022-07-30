@@ -1,4 +1,4 @@
 # GrandHotel
 Learn and Practice CSS
 ----------------------
-Learn and Practice from CSS Bootcamp
+Learn and Practice Html & CSS Project from CSS Bootcamp.
